@@ -1,1 +1,1 @@
-worker: python tensorflow_house_prediction.py
+worker: python pytorch_mnist_classifier.py
